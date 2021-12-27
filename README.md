@@ -1,2 +1,1 @@
-# 1
-number 1
+https://matplotlib.org/stable/tutorials/colors/colors.html
